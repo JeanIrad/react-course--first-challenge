@@ -7,8 +7,8 @@ export default function App() {
     <div className="App">
       <div className="avatar">
         <img
-          src="https://chennai.vit.ac.in/wp-content/uploads/2021/08/Types-and-Future-of-Software-Developer.jpg"
-          alt="dev avatar"
+          src="jean.jpg"
+          alt="Jean de Dieu Iradukunda"
         />
         <p>
           lorem ipsum this is my description as a developer who is committer to
